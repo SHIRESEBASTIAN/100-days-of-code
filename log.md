@@ -12,3 +12,8 @@
 
 **Thoughts:** Thought I should download pdf file and extract what I want from pdf and then convert it to html. Now I know it's silly. I could use Django framework.
 
+### Day 2: Mon March 5, 2019
+
+**Today's Progress:** stuck
+
+**Thoughts:** Should give coding more priority.
