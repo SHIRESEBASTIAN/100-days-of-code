@@ -12,20 +12,46 @@
 
 **Thoughts:** Thought I should download pdf file and extract what I want from pdf and then convert it to html. Now I know it's silly. I could use Django framework.
 
-### Day 2: Mon March 5, 2019
+### Day 2: Tue March 5, 2019
 
 **Today's Progress:** stuck
 
 **Thoughts:** Should give coding more priority.
 
-### Day 3: Mon March 6, 2019
+### Day 3: Wed March 6, 2019
 
 **Today's Progress:** sick
 
 **Thoughts:** Health is very  important to the following 97 days.Should have some alternatives when I am too sick to move.
 
-### Day 2: Mon March 7, 2019
+### Day 4: Thu March 7, 2019
 
 **Today's Progress:** back to codewar, and start freecodecamp.
 
 **Thoughts:** not fluent in Python.
+
+### Day 5: Fri March 8, 2019
+
+**Today's Progress:**  "howdoi" is really useful and confused about how to stay focused.
+
+**Thoughts:** start small.
+
+### Day 6: Sat March 9, 2019
+
+**Today's Progress:**  code war morning and go for fun at weekend
+
+**Thoughts:** 
+
+### Day 7: Sun March 10, 2019
+
+**Today's Progress:** I was so inspiried by an app that I want to creat my own one.
+
+**Thoughts:** brain education app.
+
+### Day 8: Mon March 11, 2019
+
+**Today's Progress:**  tired and read the awesome book about math&programming
+
+**Thoughts:** hart to find time for reading without speeding reading extension.
+
+
