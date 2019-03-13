@@ -54,9 +54,14 @@
 
 **Thoughts:** hart to find time for reading without speeding reading extension.
 
-### Day 9: Mon March 12, 2019
+### Day 9: Tue March 12, 2019
 
 **Today's Progress:**  subtabs and code interviews' problems
 
 **Thoughts:** freeCodeCamp is amazing!
 
+### Day 10: Wed March 13, 2019
+
+**Today's Progress:**  Daily Coding Problem: Problem #1(easy)
+
+**Thoughts:** This problem was recently asked by Google.
