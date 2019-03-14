@@ -65,3 +65,9 @@
 **Today's Progress:**  Daily Coding Problem: Problem #1(easy)
 
 **Thoughts:** This problem was recently asked by Google.
+
+### Day 11: Thu March 14, 2019
+
+**Today's Progress:**  Daily Coding Problem: Problem #2(hard)
+
+**Thoughts:** This problem was recently asked by Uber.
