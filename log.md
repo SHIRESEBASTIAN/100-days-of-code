@@ -71,3 +71,15 @@
 **Today's Progress:**  Daily Coding Problem: Problem #2(hard)
 
 **Thoughts:** This problem was recently asked by Uber.
+
+### Day 12: Fri March 15, 2019
+
+**Today's Progress:**  Daily Coding Problem: Problem #3(hard)
+
+**Thoughts:** This problem was recently asked by Google.
+
+### Day 13: Thu March 16, 2019
+
+**Today's Progress:**  Daily Coding Problem: Problem #4(hard)
+
+**Thoughts:** This problem was recently asked by Stripe.
