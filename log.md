@@ -78,8 +78,14 @@
 
 **Thoughts:** This problem was recently asked by Google.
 
-### Day 13: Thu March 16, 2019
+### Day 13: Sat March 16, 2019
 
 **Today's Progress:**  Daily Coding Problem: Problem #4(hard)
 
 **Thoughts:** This problem was recently asked by Stripe.
+
+### Day 14: Sun March 17, 2019
+
+**Today's Progress:**  Daily Coding Problem: Problem #5(hard)
+
+**Thoughts:** This problem was recently asked by Jane Street.
