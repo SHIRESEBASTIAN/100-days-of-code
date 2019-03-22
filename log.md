@@ -89,3 +89,39 @@
 **Today's Progress:**  Daily Coding Problem: Problem #5(hard)
 
 **Thoughts:** This problem was recently asked by Jane Street.
+
+### Day 15: Mon March 18, 2019
+
+**Today's Progress:**  Daily Coding Problem: Problem #6(hard)
+
+**Thoughts:** This problem was recently asked by Google.
+
+### Day 16: Tue March 19, 2019
+
+**Today's Progress:**  Daily Coding Problem: Problem #7(medium)
+
+**Thoughts:** This problem was recently asked by Facebook.
+
+### Day 17: Wed March 20, 2019
+
+**Today's Progress:**  Daily Coding Problem: Problem #8(easy)
+
+**Thoughts:** This problem was recently asked by Google.
+
+### Day 18: Thu March 21, 2019
+
+**Today's Progress:**  Daily Coding Problem: Problem #9(hard)
+
+**Thoughts:** This problem was recently asked by Airbnb.
+
+### Day 19: Fri March 22, 2019
+
+**Today's Progress:**  Daily Coding Problem: Problem #10(medium)
+
+**Thoughts:** This problem was recently asked by Apple.
+
+### Day 20: Sat March 23, 2019
+
+**Today's Progress:**  Daily Coding Problem: Problem #11()
+
+**Thoughts:** This problem was recently asked by
