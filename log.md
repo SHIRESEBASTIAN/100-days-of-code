@@ -122,6 +122,24 @@
 
 ### Day 20: Sat March 23, 2019
 
-**Today's Progress:**  Daily Coding Problem: Problem #11()
+**Today's Progress:**  Daily Coding Problem: Problem #11(medium)
+
+**Thoughts:** This problem was recently asked by Twitter.
+
+### Day 21: Sun March 24, 2019
+
+**Today's Progress:**  Daily Coding Problem: Problem #12(hard)
+
+**Thoughts:** This problem was recently asked by Amazon.
+
+### Day 22: Mon March 25, 2019
+
+**Today's Progress:**  Daily Coding Problem: Problem #13(hard)
+
+**Thoughts:** This problem was recently asked by Amazon.
+
+### Day 23: Tue March 26, 2019
+
+**Today's Progress:**  Daily Coding Problem: Problem #14
 
 **Thoughts:** This problem was recently asked by
